@@ -1,1 +1,1 @@
-# Calculadora-de-gemas
+# Calculadora de gemas
