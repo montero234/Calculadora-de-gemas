@@ -1,1 +1,1 @@
-# Calculadora de gemas
+# Vende-Tu-cuenta-Con-Pincha-Store 
